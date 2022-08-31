@@ -152,7 +152,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://spotify.com/ghpvc/?username=Veralee&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Veralee&&style=flat-square" align="center" />
 </div>  
   
 
