@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Vera, a Software Engineer studying remotely at ALX</div>  
+### <div align="center">I'm Vera, a Software Engineer.</div>  
   
 <!--
  🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
